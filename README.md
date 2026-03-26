@@ -1,5 +1,5 @@
 # Linear-Ordering-Problem-applied-in-football-ranking
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IraitzSantafosta/Linear-Ordering-Problem-applied-in-football-ranking/blob/main/InternationalFootballRankingLOP.ipynb)
 Optimización de un ranking histórico de selecciones de fútbol
 
 Este estudio analiza cómo construir un ranking internacional de fútbol más preciso utilizando datos históricos desde 1872 hasta 2021. Para ello, se seleccionaron las 25 selecciones nacionales con mayor número de partidos disputados y se aplicaron técnicas matemáticas y de inteligencia artificial.
